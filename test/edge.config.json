@@ -1,0 +1,18 @@
+{
+  "prod": {
+    "oss": {
+      "publicPath": "smartpoits/h5"
+    },
+    "server": {
+      "publicPath": "/www/smart-point-h5"
+    }
+  },
+  "test": {
+    "oss": {
+      "publicPath": "smartpoits/h5"
+    },
+    "server": {
+      "publicPath": "/usr/local/nginx/html/test-smart-point-h5"
+    }
+  }
+}
